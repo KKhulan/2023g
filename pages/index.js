@@ -24,7 +24,7 @@ export default function Home() {
 
         <div>
           <Image src="/nuhurlul.jpg" width={500} height={500} alt="photo" />
-          <Image src="/ulzii.jpeg" width={500} height={500} alt="photo" />
+          <Image src="/ulzii.jpeg" width={500} height={500} alt="phot" />
         </div>
         {/* Vercel marketing - feel free to remove */}
         {/* <footer className={styles.footer}>
